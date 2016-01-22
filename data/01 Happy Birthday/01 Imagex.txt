@@ -1,8 +1,13 @@
 Happy Birthday
+
 ### Test 1 ###
+
 ** Test 2 **
+
 __ Test 4 __
+
 ~~ Test 5 ~~
+
 Test 7
 
 * Test 8
