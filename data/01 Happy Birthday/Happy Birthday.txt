@@ -6,7 +6,8 @@ height: 20
 textcolor: #ff9518
 ---
 
-Happy Birthday
+
+<h1>Happy Birthday</h1>
 
 ### Test 1 ###
 ##### Test 1 #####
