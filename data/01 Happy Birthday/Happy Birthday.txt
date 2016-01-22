@@ -1,7 +1,7 @@
 ---
-top: 5
+top: 10
 left: 5
-width: 30
+width: 80
 height: 20
 textcolor: #ff9518
 ---
@@ -9,15 +9,10 @@ textcolor: #ff9518
 
 <h1>Happy Birthday</h1>
 
-### Test 1 ###
-##### Test 1 #####
-
-** Test 2 **
-
-__ Test 4 __
-
+# Test 1 #
+* Test 2 *
+_ Test 4 _
 ~~ Test 5 ~~
-
 Test 7
 
 * Test 8
