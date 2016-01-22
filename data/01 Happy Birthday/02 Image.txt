@@ -1,1 +1,1 @@
-<h2>Happy Birthday</h2>
+<h1>Happy Birthday</h1>
