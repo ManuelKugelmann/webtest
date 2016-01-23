@@ -9,7 +9,7 @@ textcolor: #ff9518
 <h1>Happy Birthday</h1>
 
 # Test 1 #
-* Test 2 *
+/Test 2/
 _ Test 4 _
 ~~ Test 5 ~~
 Test 7
