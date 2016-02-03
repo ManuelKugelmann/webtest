@@ -1,5 +1,5 @@
 ---
-top: 90
+top: 80
 left: 5
 width: 80
 height: 20
