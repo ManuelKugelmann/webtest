@@ -10,7 +10,21 @@ height: 20
 	* Reihenfolgen sind immer alphabetisch
 	* Ordnerhierarchie = Navigationshierarchie
 	* Beschriftungen mittels dem Bild gleich benannter Textdateien
-	
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
 Solange Sparkleshare aktiv ist, werden die Daten mit dem Server synchronisiert.
+
 SparkleShare kann jederzeit gestartet und beendet werden.
+
 Damit kann man den Zeitpunkt der Sychronisation zu steuern.
