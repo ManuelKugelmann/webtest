@@ -10,11 +10,6 @@ height: 20
 	* Reihenfolgen sind immer alphabetisch
 	* Ordnerhierarchie = Navigationshierarchie
 	* Beschriftungen mittels dem Bild gleich benannter Textdateien
-
-.
-
-.
-
 .
 
 .
