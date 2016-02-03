@@ -6,11 +6,11 @@ height: 20
 ---
 
 
-5. SparkleShare Ordner joelku mit Daten befüllen
+* SparkleShare Ordner joelku mit Daten befüllen
 
-* Reihenfolgen sind immer alphabetisch, führende Ziffern werden berücksichtigt aber nicht angezeigt
-* Ordnerhierarchie = Navigationshierarchie
-* Beschriftungen können über dem Bild gleich benannte Textdateien hinzugefügt werden
+	* Reihenfolgen sind immer alphabetisch, führende Ziffern werden berücksichtigt aber nicht angezeigt
+	* Ordnerhierarchie = Navigationshierarchie
+	* Beschriftungen können über dem Bild gleich benannte Textdateien hinzugefügt werden
 
 Solange Sparkleshare aktiv ist, werden die Daten mit dem Server synchronisiert.
 SparkleShare kann jederzeit gestartet und beendet werden, um den Zeitpunkt der Sychronisation zu steuern.
