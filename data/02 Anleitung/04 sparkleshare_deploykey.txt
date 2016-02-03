@@ -6,5 +6,5 @@ height: 20
 ---
 
 
-4. SparkleShare Client-Key an Manuel oder Jonas senden um ihn bei Github registrieren zu lassen
+* SparkleShare Client-Key an Manuel oder Jonas senden um ihn bei Github registrieren zu lassen
 
