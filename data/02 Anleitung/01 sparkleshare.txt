@@ -8,5 +8,5 @@ height: 20
 Anleitung
 ===
 
-1. [Sparkleshare](http://sparkleshare.org/) installieren
+1. [>>Sparkleshare<<](http://sparkleshare.org/) installieren
 
