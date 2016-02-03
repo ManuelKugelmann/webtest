@@ -1,6 +1,6 @@
 ---
 top: 5
-left: 5
+left: 20
 width: 80
 height: 10
 ---
