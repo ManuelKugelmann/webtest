@@ -3,29 +3,8 @@ top: 10
 left: 5
 width: 80
 height: 20
-textcolor: #ff9518
 ---
 
-<h1>Happy Birthday</h1>
-
-#Test 1#
-
-##Test 1##
-
-###Test 1###
-
-####Test 1#####
-
-#####Test 1######
-
-/Test 2/
-*Test 1*
-_Test4 _
-~~ Test 5 ~~
-Test 7
-
-* Test 8
-	* Test 9
-* Test 10
-
+Alles Gute zum Geburtstag!
+==============
 

@@ -1,0 +1,12 @@
+---
+top: 10
+left: 5
+width: 80
+height: 20
+---
+
+Anleitung
+===
+
+1. [Sparkleshare](http://sparkleshare.org/) installieren
+

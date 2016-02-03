@@ -1,0 +1,9 @@
+---
+top: 30
+left: 5
+width: 80
+height: 20
+---
+
+Die ganze weite Welt wartet ...
+=========
