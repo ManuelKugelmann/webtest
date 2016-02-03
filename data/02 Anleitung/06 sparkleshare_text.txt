@@ -6,26 +6,22 @@ height: 20
 textcolor: #ff9518
 ---
 
-<h1>Textformatierung:</h1>
-
 # H1
-
 ## H2
-
 ### H3
-
 #### H4
-
 ##### H5
 
 normal
-_hervorgehoben_
-__doppelt hervorgehoben__
-~~ausgestrichen~~
 
-* Apfel
-	* Birne
-* Orange
+_kursiv_
+
+__fett__
+
+* Liste
+	* Unterliste
+	* Unterpunkt
+* Punkt
 
 1. Zuerst
 2. Dann
