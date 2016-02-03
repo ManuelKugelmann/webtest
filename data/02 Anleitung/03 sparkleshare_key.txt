@@ -6,5 +6,5 @@ height: 10
 ---
 
 
-3. SparkleShare Client-Key in Zwischenablage nehmen
+* SparkleShare Client-Key in Zwischenablage nehmen
 
