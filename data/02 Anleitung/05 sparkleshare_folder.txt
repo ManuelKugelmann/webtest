@@ -5,7 +5,7 @@ width: 80
 height: 20
 ---
 
-* SparkleShare Ordner joelku mit Daten befüllen
+* SparkleShare Ordner "joelku/data" mit Bildern und Texten befüllen
 
 	* Reihenfolgen sind immer alphabetisch
 	* Ordnerhierarchie = Navigationshierarchie
