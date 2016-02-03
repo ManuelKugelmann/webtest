@@ -1,6 +1,6 @@
 ---
 top: 10
-left: 20
+left: 50
 width: 50
 height: 80
 textcolor: #ff9518
