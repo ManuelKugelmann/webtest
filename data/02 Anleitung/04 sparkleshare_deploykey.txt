@@ -3,6 +3,7 @@ top: 10
 left: 5
 width: 80
 height: 20
+textcolor: #000000
 ---
 
 
