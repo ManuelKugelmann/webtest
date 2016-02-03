@@ -12,5 +12,5 @@ Anleitung
 
 
 
-1. [>>Sparkleshare<<](http://sparkleshare.org/) installieren
+* [>>Sparkleshare<<](http://sparkleshare.org/) installieren
 
