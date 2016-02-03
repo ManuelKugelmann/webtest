@@ -1,8 +1,8 @@
 ---
 top: 10
-left: 5
-width: 80
-height: 20
+left: 20
+width: 50
+height: 80
 textcolor: #ff9518
 ---
 
